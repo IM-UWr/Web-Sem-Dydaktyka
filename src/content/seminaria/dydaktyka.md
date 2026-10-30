@@ -5,6 +5,7 @@ prowadzacy:
   - "Małgorzata Mikołajczyk"
 zaklad: "dydaktyka"
 aktywne: true
+tresc_en: "Seminar of the Mathematics Education and Outreach Unit."
 opublikowany: true
 do_uzupelnienia:
   - "Na dawnej stronie Instytutu nie było seminarium Pracowni — nazwę i koordynatora (kierownik Pracowni) przyjęto tymczasowo; do potwierdzenia przez Pracownię."
