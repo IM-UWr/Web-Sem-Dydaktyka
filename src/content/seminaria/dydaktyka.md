@@ -6,6 +6,8 @@ prowadzacy:
 zaklad: "dydaktyka"
 aktywne: true
 tresc_en: "Seminar of the Mathematics Education and Outreach Unit."
+haslo: "Jak uczyć matematyki i o niej mówić"
+haslo_en: "Teaching and talking mathematics"
 opublikowany: true
 do_uzupelnienia:
   - "Na dawnej stronie Instytutu nie było seminarium Pracowni — nazwę i koordynatora (kierownik Pracowni) przyjęto tymczasowo; do potwierdzenia przez Pracownię."
