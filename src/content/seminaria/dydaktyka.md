@@ -1,8 +1,8 @@
 ---
 nazwa: "Seminarium Pracowni Dydaktyki i Popularyzacji Matematyki"
 nazwa_en: "Seminar of the Mathematics Education and Outreach Unit"
-prowadzacy:
-  - "Małgorzata Mikołajczyk"
+prowadzacy_ze_spisu:
+  - "_cms/pracownicy/malgorzata-mikolajczyk.yml"
 zaklad: "dydaktyka"
 aktywne: true
 tresc_en: "Seminar of the Mathematics Education and Outreach Unit."
